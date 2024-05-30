@@ -187,7 +187,6 @@ nav ul li a:hover {
     margin-bottom: 5px;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     nav ul {
         flex-direction: column;
@@ -209,8 +208,6 @@ nav ul li a:hover {
         padding: 10px;
     }
 }
-
-/* Add these styles to your existing CSS file */
 
 @keyframes fadeIn {
     from {
